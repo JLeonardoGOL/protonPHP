@@ -11,3 +11,11 @@ Ultra pequeño framework hecho a la medida para el desarrollo de API´s y aplica
 ## Año de creación: 2023
 
 ## Creador: JGARCIAOLS
+
+# Instalación
+* Copiar el repositorio
+* Crear en la carpeta raíz una carpeta llamada "source"
+* crear dentro de la carpeta /source crear carpeta ["controllers", "views"]
+
+# Configuración DB
+// Cambiar los datos correspondientes en el archivo "config.php"
