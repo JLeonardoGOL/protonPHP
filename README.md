@@ -1,5 +1,5 @@
 # ProtonPHP
-Ultra pequeño framework hecho a la medida para el desarrollo de aplicaciones y API's.
+Ultra pequeño framework hecho a la medida para el desarrollo de API´s y aplicaciones.
 
 # Datos tecnicos
 * 1.0.0 versión de libreria
